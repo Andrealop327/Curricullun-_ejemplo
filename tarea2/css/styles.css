@@ -1,0 +1,159 @@
+body{
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', "Arial"," sans-serif";
+}
+.container-major{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: white;
+}
+.descripcion{
+    margin-bottom : 40px 0;
+}
+
+.descripcion-profesión{
+    font-size: 14px;    
+    font-weight: 700;
+ }
+.descripcion-general{
+    padding: 100px  88px;
+    
+}
+.nombre{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.descripcion-profesión{
+    padding: 40px 0;
+}
+.nombre{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}  
+/*-------------------*/
+.tex-descri{
+    width: 400px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+    
+.titulo_seccion-principal{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 45px;
+}
+.lista-proyectos{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+}
+.enlace-proyectos{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.puntos-p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    letter-spacing: 2px;
+}
+
+.informacion-lateral{
+    background: #250b47;
+    height: 1400px;
+    margin: 40px;
+    padding: 40px 0;
+}
+.titulo-lateral{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 20px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 8px;
+
+}
+.contactos,.habilidades-tecnicas,.habilidades_blandas{
+    margin-left: 40px;
+}
+.tipo-contacto{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-right: 15px;
+}
+.info-contacto{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(117, 117,117);
+    margin-right: 15px;
+}
+.lista-lateral{
+    padding: 0px;
+    padding-left: 20px;
+}
+.lista-lateral > li{
+    color: #FB6D3A;
+}
+.elemento-lista-lateral{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.rol-asignado{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.tex-color{
+    color: #FB6D3A;
+}
+.periodo-emp{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #696262;
+}
+.lista-exp{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #696262;
+    padding-left: 17px;
+}
